@@ -9,7 +9,7 @@ namespace FirstTest
             // määritellään muuttuja
             string nimi = "Matti Mainio";
             // tulostetaan muuttujan arvo konsolille
-            Console.WriteLine("Nimi on " + nimi);
+            Console.WriteLine("Niaaaami on " + nimi);
             // pidetään sovelluksen ajoikkuna näytöllä. Sulkeutuu, kun enter-painiketta on painettu
             Console.ReadLine();
         }
